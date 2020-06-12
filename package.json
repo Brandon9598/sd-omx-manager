@@ -1,6 +1,6 @@
 {
-  "name": "omx-manager",
-  "version": "0.1.4",
+  "name": "sd-omx-manager",
+  "version": "1.0.0",
   "description": "Provide a simple and complete interface to omxplayer (Raspberry Pi player).",
   "main": "lib/main.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "video",
     "player"
   ],
-  "author": "Valerio Battaglia",
+  "author": "Valerio Battaglia & Brandon Hancock",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.7.7",
